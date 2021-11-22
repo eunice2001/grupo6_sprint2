@@ -40,6 +40,7 @@ header{
 }
 .iconosYBuscar .contenedor-icons .search-container{
     min-width: 170px;
+    display: flex;
     padding:5px 0;
 }
 .iconosYBuscar .contenedor-icons .search-container i,input{
@@ -91,7 +92,7 @@ input {
     margin-top: -4px;
 }
 body{
-    background-image: url("/images/fondo.jpg");
+    background-image: url("/home/images/fondo.jpg");
 }
 .contenido{
     width: 100%;
@@ -132,7 +133,7 @@ body{
 .contenidos h2{
     text-align: center;
     padding: 5px 10px;
-    margin-bottom: 10px;
+    margin: 20px;
 }
 .contenedor-imagenes-edades{
     display: flex;
@@ -154,12 +155,9 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 15px;
 }
-/* .div-Imagenes .imagenes-edades:hover{
-    transform: scale(1.15);
-    box-shadow: 5px 5px 10px;
-    cursor: pointer;
-} */
+
 .contenedor-imagenes-edades h4{
     text-align: center;
     padding-top: 15px;
@@ -264,12 +262,16 @@ body{
        flex-direction: row;
        flex-wrap: nowrap;
        font-size:70%;
+       margin-top: 15px;
     }
     .pie-de-pagina>h2{
         font-size: 0.6em;
     }
+    .contenidos{
+        margin: 10px;
+    }
     .iconos{
-        font-size: 2vw;
+        font-size: 1.5vw;
     }
     .contenedor-img {
         font-size: 0.8em;
