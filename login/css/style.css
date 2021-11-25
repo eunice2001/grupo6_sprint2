@@ -94,7 +94,7 @@ body{
 .iniciar-sesion > h3{
     font-size:30px;
     position: relative;
-    top: 65px;
+    top: 60px;
     right: 7%;
    
 }
@@ -134,6 +134,15 @@ body{
     color: brown;
     font-weight: bold;
 }
+.recordarUser{
+  display: flex;
+  width: 90%;
+}
+.recordarUser input{
+    order: -1;
+}
+
+
 
 .tablet{
     display: none;
