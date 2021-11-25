@@ -1,7 +1,7 @@
 
 - Comenzar a hacer :
 
-   Revisar el trabajo en grupo antes de pushearlo
+   Revisar el trabajo en grupo al finalizar
 
 - Hacer más:
 
