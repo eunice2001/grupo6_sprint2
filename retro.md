@@ -1,3 +1,5 @@
+## RETROSPECTIVA
+
 
 - Comenzar a hacer :
 
@@ -6,7 +8,7 @@
 - Hacer más:
 
    Reuniones semanales ya sea por zoom o meet google, etc
-   Participar y hablar más con el grupo
+   Participar y hablar más con el grupo 
 
 - Continuar haciendo:
 
@@ -14,7 +16,7 @@
 
 - Hacer menos:
 
-   Silencio👻
+   Silencio en las reuniones de grupo👻
 
 - Dejar de hacer 
 
