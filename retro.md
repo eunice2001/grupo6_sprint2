@@ -19,6 +19,7 @@
    Hacer menos silencio en las reuniones de grupo👻
 
 - Dejar de hacer 
-  No comentar por donde vamos
+
+   No comentar por donde vamos
 
   
