@@ -4,7 +4,7 @@
   "description": "https://trello.com/b/18JyjpiX/dh-web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
