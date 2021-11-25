@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="img/logo_pequeño.png" alt="logo gugu">
+        </div>
+        <div class="menu tablet">
+            <ul>
+                <li>INICIO</li>
+                <li>PRODUCTOS</li>
+                <li>QUIENES SOMOS</li>
+                <li>CONTACTO</li>
+            </ul>
+        </div>
+        <div class="search">
+            <form action="#" class="searchForm">
+                <input type="text" name="buscar" id="buscar" placeholder="Buscar...">
+                <button><i class="fas fa-search"></i></button>
+            </form>
+        </div>
+        <div class="menu tablet">
+            <ul>
+                <li><i class="fas fa-user"></i></li>
+                <li><i class="fas fa-shopping-cart"></i></li>
+            </ul>
+        </div>
+        <div class="menuBurger">
+            <i class="fas fa-bars"></i>
+        </div>
+    </header>
+
+
+    <!--LOGIN-->
+    <div class="iniciar-sesion">
+        <h3>INICIAR SESIÓN</h3>
+        <img src="img/oso.png" alt="oso">
+    </div>
+    <section class="sectionLogin">
+        <div class="divLogin">
+            <div class="divLogin2">
+                <form class="formLogin" action="#">
+                    <input type="email" placeholder="Email" name="email" id="email" required/>
+                    <input type="password" placeholder="Contraseña" name="clave" id="password" minlength="8" required/>
+                    <div class="recordarUser">
+                        <label for="terminos">Recordarme</label>
+                        <input type="checkbox" name="recordarUsuario" value="Recordarme" checked>
+                    </div>
+                    <a href="#">¿Olvidaste tu contraseña?</a>
+                    <input type="submit" value="INGRESAR" class="button-login">
+                    <p>¿No tenés una? <a href="#">crear una</a></p>
+                </form>
+            </div>
+                
+               
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="contGrid">
+            <div class="div1"> 
+                <div class="pagosEnvios">
+                    <h4>MEDIOS DE PAGO</h4>
+                    <ul class="tarjetas">
+                        <li><img src="img/TARJETAS/visa@2x.png" alt="Visa"></li>
+                        <li><img src="img/TARJETAS/banelco@2x.png" alt="Banelco"></li>
+                        <li><img src="img/TARJETAS/mastercard@2x.png" alt="MasterCard"></li>
+                        <li><img src="img/TARJETAS/rapipago@2x.png" alt="Rapipago"></li>
+                        <li><img src="img/TARJETAS/mercadopago@2x.png" alt="Mercadopago"></li>
+                        <li><img src="img/TARJETAS/tarjeta-naranja@2x.png" alt="Tarjeta naranja"></li>
+                        <li><img src="img/TARJETAS/pagofacil@2x.png" alt=""></li>
+                        <li><img src="img/TARJETAS/tarjeta-shopping@2x.png" alt=""></li>
+                    </ul>
+                </div>
+                <div class="pagosEnvios">
+                    <h4>ENVIOS</h4>
+                    <ul class="tarjetas">
+                        <li><img src="img/TARJETAS/oca@2x.png" alt="Oca"></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="div2">         
+                <div class="contacto">
+                    <h4>CONTACTO</h4>
+                    <ul class="infoList">
+                        <li><i class="fas fa-phone-alt"></i> 11 1234 5678</li>
+                        <li><i class="fas fa-envelope"></i> contacto@gugu.com</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Av. 9 de julio 100 - CABA</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="div3">        
+                <div class="redesFooter">
+                    <h4>NUESTRAS REDES</h4>
+                    <ul class="infoList redesList">
+                        <li><i class="fab fa-facebook-square"></i></li>
+                        <li><i class="fab fa-instagram"></i></li>
+                    </ul>
+                </div> 
+            </div>
+        </div>
+        <p>GUGU &copy; 2021.</p>
+    </footer>
+</body>
+</html>
