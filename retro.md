@@ -12,12 +12,13 @@
 
 - Continuar haciendo:
 
-   Ayudarnos 😊
+   Siempre seguir ayudandonos 😊
 
 - Hacer menos:
 
-   Silencio en las reuniones de grupo👻
+   Hacer menos silencio en las reuniones de grupo👻
 
 - Dejar de hacer 
+  No comentar por donde vamos
 
-  ..
+  
