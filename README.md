@@ -1,4 +1,4 @@
-# Grupo 6 / Sprint 2  --> GUGU 🧸
+# Grupo 6 / Sprint 2 GUGU 🧸
 
 
 
